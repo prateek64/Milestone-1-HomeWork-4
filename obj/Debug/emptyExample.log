@@ -1,4 +1,5 @@
-﻿  ofApp.cpp
+﻿  main.cpp
+  ofApp.cpp
   emptyExample.vcxproj -> C:\Users\pmurgai\Desktop\Quarter-1\256A\of_v0.9.6_vs_release\examples\empty\emptyExample\bin\emptyExample_debug.exe
   emptyExample.vcxproj -> bin\emptyExample_debug.pdb (Full PDB)
   
